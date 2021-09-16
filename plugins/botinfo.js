@@ -11,24 +11,23 @@ Asena.addCommand({pattern: 'info', fromMe: false, desc: Lang.GL}, (async (messag
     
     
    
-  r_text[0] = "https://i.imgur.com/dCrPuyu.jpeg";
+  r_text[0] = "https://telegra.ph/file/afd4937c734fb2db0a8c8.jpg";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `▢ *ᴍʏ ɴᴀᴍᴇ ɪs ғɪᴅʜᴀ ᴍᴡᴏʟ*
+    await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `▢ *ᴍʏ ɴᴀᴍᴇ ɪs MilfBOT*
 
 ▢ *ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴋɴᴏᴡ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ᴊᴜsᴛ ᴍᴇssᴀɢᴇ ,help*
 
-▢ *ғɪᴅʜᴀ ᴠ1* 
+▢ *MilfBOTv1* 
 
-▢ *ᴅᴇᴠᴇʟᴏᴘᴇʀ ꪶɪᴛs-ᴍᴇ ͢ʜʏᷤᴘͥᴇᷢʀ⁨ꫂ⁩*
+▢ *ᴅᴇᴠᴇʟᴏᴘᴇʀ Hey ITS JORDI⁩*
 
-▢ *ɢɪᴛʜᴜʙ ʟɪɴᴋ:* http://github.com/Hypersir/Fidha-Mwol
+▢ *ɢɪᴛʜᴜʙ ʟɪɴᴋ:* http://github.com/iamenpjordi69
 
-▢ *ʙᴏᴛ ᴄʀᴇᴀᴛɪɴɢ ᴠɪᴅᴇᴏ:* https://youtu.be/0pU8N611-Oc
 `}) 
 
 }));

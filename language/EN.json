@@ -52,7 +52,7 @@
             "L_WARN": "Please open your location before using command!"
         },
         "gitlink": {
-            "GL": "To get github links|http://github.com/Hypersir/Fidha-Mwol."
+            "GL": "To get github links|http://github.com/iamenpjordi69."
         },
         "afk": {
             "AFK_DESC": "It makes you AFK - Away From Keyboard.",
@@ -228,14 +228,14 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*Your fidha bot is completely up-to-date!*",
-            "NEW_UPDATE": "*New update available for Fidha Bot!*\n\n*To update Bot give this command: .update now*\n\n*Support Group Link: https://chat.whatsapp.com/ECPIf8gi8DaITTeTppAj2q*\n\nChanges:\n```",
+            "UPDATE": "*Your MilfBOT is completely up-to-date!*",
+            "NEW_UPDATE": "*New update available for MilfBOT!*\n\n*To update Bot give this command: .update now*\n\n*Support Group Link: https://chat.whatsapp.com/ECPgi8DaITTeTppAj2q*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "Updating..🧞‍♂️",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
             "UPDATED": "*✅  Updated!*",
-            "UPDATED_LOCAL": "*✅ Fidha bot Updated!*",
-            "AFTER_UPDATE": "*FidhaMwol Restarting !*",
+            "UPDATED_LOCAL": "*✅ MilfBOT Updated!*",
+            "AFTER_UPDATE": "*MilfBOT Restarting !*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
@@ -463,7 +463,7 @@
             "NOT_FOUND": "*Media Not Found!*"
         },
         "github": {
-            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github phaticusthiccy",
+            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github iamenpjordi69",
             "REPLY": "```You Need To Type Any Username!```",
             "NOT": "```User not found!```",
             "FOLLOWERS": "Followers:",
